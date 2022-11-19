@@ -24,9 +24,9 @@ Hi 👋 :woman_technologist:
 
 I'm a Front-Developer, I love to constantly learn new technologies and programming languages that can be applied to web platforms with Javascript, REACT, HTML, CSS, etc.
 
-* 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client)
+<!-- * 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client)
 * 🧠  I'm learning React library.
-* ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies.
+* ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies. -->
 
 
 ### Skills
@@ -37,12 +37,14 @@ I'm a Front-Developer, I love to constantly learn new technologies and programmi
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<!--<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/59wmdqFL/jest-logo.png" width="36" height="36" alt="Jestjs" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Px3g1DT0/csharp-original-logo-icon-146578.png" width="36" height="36" alt="c#" /></a>
+<a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/W43LzSP0/solidity.png" width="36" height="36" alt="c#" /></a>
 </p>
 
 ### Red Socials: You can contact me by
