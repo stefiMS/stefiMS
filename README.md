@@ -24,9 +24,9 @@ Hi 👋 :woman_technologist:
 
 I'm a Front-Developer, I love to constantly learn new technologies and programming languages that can be applied to web platforms with Javascript, REACT, HTML, CSS, etc.
 
-<!-- * 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client)
-* 🧠  I'm learning React library.
-* ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies. -->
+<!-- * 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client) -->
+* 🧠  I'm learning Vue.
+* ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies.
 
 
 ### Skills
@@ -45,6 +45,8 @@ I'm a Front-Developer, I love to constantly learn new technologies and programmi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/Px3g1DT0/csharp-original-logo-icon-146578.png" width="36" height="36" alt="c#" /></a>
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/W43LzSP0/solidity.png" width="36" height="36" alt="c#" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/wjD3Fqtw/nextjs.png" width="36" height="36" alt="nextjs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/W106rPsv/58482acecef1014c0b5e4a1e.png" width="36" height="36" alt="vuejs" /></a>  
 </p>
 
 ### Red Socials: You can contact me by
