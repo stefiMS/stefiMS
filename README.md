@@ -25,7 +25,7 @@ Hi 👋 :woman_technologist:
 I'm a Front-Developer, I love to constantly learn new technologies and programming languages that can be applied to web platforms with Javascript, REACT, HTML, CSS, etc.
 
 <!-- * 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client) -->
-* 🧠  I'm learning Vue.
+* 🧠  I'm learning Python.
 * ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies.
 
 
@@ -33,6 +33,7 @@ I'm a Front-Developer, I love to constantly learn new technologies and programmi
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
