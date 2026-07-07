@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 <!-- Hi 👋 My name is Stefani Martinez 	:woman_technologist:  -->
 Hi 👋 :woman_technologist:
 ===========================================
-<!-- Frontend Developer and Agroindustrial Engineering -->
-<img src="https://i.postimg.cc/6pjJ6kTv/slogan.png" width="1000" height="600" alt="sloganSm" />
+<!-- Frontend Developer and Engineering -->
 
+<!--
+<img src="https://i.postimg.cc/6pjJ6kTv/slogan.png" width="1000" height="600" alt="sloganSm" />
+-->
 ----------------------------------------------------
 ## About Me <img src="https://i.postimg.cc/9MBsSs30/myAvatar.png" width="35" height="35" alt="avatarSm" />
 
@@ -26,7 +28,7 @@ I'm a Front-Developer, I love to constantly learn new technologies and programmi
 
 <!-- * 🚀  I'm currently working on [Burger Queen with an API -React](http://github.com/stefiMS/LIM017-burger-queen-api-client) -->
 * 🧠  I'm learning Python.
-* ⚡  I have a background in agroindustrial engineering, which has allowed me to develop skills in continuous improvement and agile methodologies.
+* ⚡  I have a background in engineering and PMO, which has allowed me to develop skills in continuous improvement and agile methodologies.
 
 
 ### Skills
